@@ -1,0 +1,3 @@
+Model,Training Accuracy,Number of Reviews
+Multinomial Naive Bayes,0.9,10
+Logistic Regression,1.0,10
