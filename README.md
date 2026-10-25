@@ -23,3 +23,18 @@ Refer to the notebooks and results CSV for actual model evaluation results.
 
 ## Author
 B.Tech Artificial Intelligence and Data Science Student
+## Task 3: Customer Churn Prediction
+- Dataset: Telco Customer Churn
+- Models: Logistic Regression and Random Forest
+- Metrics: Accuracy, Precision, Recall and F1-score
+- Visualizations: Confusion matrix and feature importance
+
+## Task 4: NLP Sentiment Classification
+- Dataset: Customer review CSV
+- Techniques: Text cleaning and TF-IDF
+- Models: Multinomial Naive Bayes and Logistic Regression
+- Features: Sentiment prediction for new review text
+
+## Notes
+Results are based on the supplied datasets. Task 4 uses a small sample dataset, so its training metrics should not be treated as reliable generalization performance.
+
